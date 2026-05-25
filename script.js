@@ -1,6 +1,5 @@
 
 
-
 //SAVE USER INFO
 
 const form = document.getElementById("form");
