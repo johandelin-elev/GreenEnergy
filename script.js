@@ -1,12 +1,4 @@
-//FADE IN
 
-const container = document.getElementById("container");
-
-window.addEventListener("load", () => {
-    setTimeout(() => {
-        container.style.opacity = "1";
-    }, 1000);
-});
 
 
 //SAVE USER INFO
