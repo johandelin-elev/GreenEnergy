@@ -17,17 +17,13 @@
     padding: 0;
 }
 
-html {
-    background: linear-gradient(hsl(154, 15%, 9%), hsl(154, 35%, 5%));
-}
-
 body {
     display: flex;
     color: var(--color);
     font-family: var(--font-inter);
     font-size: 16px;
     font-weight: 500;
-    opacity: 0;
+    opacity: 1;
     transition: opacity 1s ease;
 }
 
